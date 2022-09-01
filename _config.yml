@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: University Libraries Python Basics Workshop
 description: This website contains the learning materials for a five day workshop on Python Basics. 
-# logo: insert image filename here and include the image file in the images/ folder
+logo: logo.jpg
