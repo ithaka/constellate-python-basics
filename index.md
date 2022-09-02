@@ -34,4 +34,4 @@ This lesson describes the basics of [lists](https://docs.constellate.org/key-ter
 * Python Basics 3
 
 ## Day 4 (September 15)
-We will show how to teach your own form of Python Basics at your institution.
+We will show how to teach your own form of Python Basics at your institution using GitHub.
