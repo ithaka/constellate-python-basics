@@ -1,9 +1,13 @@
-# Python Basics (September 2022)
+# Python Basics
 
-## Getting Started with Jupyter Notebooks and Python Basics 1 (Tuesday- September 6)
+## Day 1 (September 6)
 This lesson introduces Jupyter notebooks and Python for absolute beginners. If you are completely new to text analysis, this is the place to start. This lesson describes [operators](https://docs.constellate.org/key-terms/#operator), [expressions](https://docs.constellate.org/key-terms/#expression), data types, [variables](https://docs.constellate.org/key-terms/#variable), and basic [functions](https://docs.constellate.org/key-terms/#function).
 
-## Python Basics 2 (Thursday- September 8)
+### Notebooks
+* Getting Started with Jupyter Notebooks
+* Python Basics 1
+
+## Day 2 (September 8)
 This lesson describes the basics of [flow control statements](https://docs.constellate.org/key-terms/#flow-control-statement) including:
 * [Boolean values](https://docs.constellate.org/key-terms/#boolean-value)
 * [Boolean operators](https://docs.constellate.org/key-terms/#boolean-operator)
@@ -14,7 +18,10 @@ This lesson describes the basics of [flow control statements](https://docs.const
 * `while` and `for` loop statements
 * Handling errors with `try` and `except`
 
-## Python Basics 3 (Tuesday- September 13)
+### Notebooks
+* Python Basics 2
+
+## Day 3 (September 13)
 This lesson describes the basics of [lists](https://docs.constellate.org/key-terms/#list) and [dictionaries](https://docs.constellate.org/key-terms/#dictionary) including:
 
 * The `in` and `not in` [operators](https://docs.constellate.org/key-terms/#operator)
@@ -23,5 +30,8 @@ This lesson describes the basics of [lists](https://docs.constellate.org/key-ter
 * [Dictionaries](https://docs.constellate.org/key-terms/#dictionary)
 * [Dictionary](https://docs.constellate.org/key-terms/#dictionary) methods (`update()`, `keys()`, `values()`, `items()`, `get()`)
 
-## Teach your own course (Thursday- September 15)
+### Notebooks
+* Python Basics 3
+
+## Day 4 (September 15)
 We will show how to teach your own form of Python Basics at your institution.
