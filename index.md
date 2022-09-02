@@ -33,5 +33,7 @@ This lesson describes the basics of [lists](https://docs.constellate.org/key-ter
 ### Notebooks
 * <a href="https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fpython-basics-3.ipynb" target="_blank">Python Basics 3</a>
 
+**Note:** There are two [more lessons](https://github.com/ithaka/tdm-notebooks/) available on Python Basics and many other topics.
+
 ## Day 4 (September 15)
 We will show how to teach your own form of Python Basics at your institution using GitHub.
