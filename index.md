@@ -4,8 +4,8 @@
 This lesson introduces Jupyter notebooks and Python for absolute beginners. If you are completely new to text analysis, this is the place to start. This lesson describes [operators](https://docs.constellate.org/key-terms/#operator), [expressions](https://docs.constellate.org/key-terms/#expression), data types, [variables](https://docs.constellate.org/key-terms/#variable), and basic [functions](https://docs.constellate.org/key-terms/#function).
 
 ### Notebooks
-* Getting Started with Jupyter Notebooks
-* Python Basics 1
+* [Getting Started with Jupyter Notebooks](https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fgetting-started-with-jupyter.ipynb)
+* [Python Basics 1](https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fpython-basics-1.ipynb)
 
 ## Day 2 (September 8)
 This lesson describes the basics of [flow control statements](https://docs.constellate.org/key-terms/#flow-control-statement) including:
@@ -19,7 +19,7 @@ This lesson describes the basics of [flow control statements](https://docs.const
 * Handling errors with `try` and `except`
 
 ### Notebooks
-* Python Basics 2
+* [Python Basics 2](https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fpython-basics-2.ipynb)
 
 ## Day 3 (September 13)
 This lesson describes the basics of [lists](https://docs.constellate.org/key-terms/#list) and [dictionaries](https://docs.constellate.org/key-terms/#dictionary) including:
@@ -31,7 +31,7 @@ This lesson describes the basics of [lists](https://docs.constellate.org/key-ter
 * [Dictionary](https://docs.constellate.org/key-terms/#dictionary) methods (`update()`, `keys()`, `values()`, `items()`, `get()`)
 
 ### Notebooks
-* Python Basics 3
+* [Python Basics 3](https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fpython-basics-3.ipynb)
 
 ## Day 4 (September 15)
 We will show how to teach your own form of Python Basics at your institution using GitHub.
