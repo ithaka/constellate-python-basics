@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: University Libraries Python Basics Workshop
+title: University Library Python Basics Workshop
 description: This website contains the learning materials for a 3 part workshop on Python Basics.
-show_downloads: true
-logo: logo.png
+show_downloads: false # shows download links for the repository
+logo: logo.png # can easily be replaced with an institutional logo by uploading a new file
