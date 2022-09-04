@@ -7,10 +7,13 @@
 This lesson introduces Jupyter notebooks and Python for absolute beginners. If you are completely new to text analysis, this is the place to start. This lesson describes [operators](https://docs.constellate.org/key-terms/#operator), [expressions](https://docs.constellate.org/key-terms/#expression), data types, [variables](https://docs.constellate.org/key-terms/#variable), and basic [functions](https://docs.constellate.org/key-terms/#function).
 
 ### Notebooks
-* Getting Started with Jupyter Notebooks
-* <a href="https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fpython-basics-1.ipynb" target="_blank">Python Basics 1</a>
+* [Getting Started with Jupyter Notebooks](https://github.com/ithaka/constellate-python-basics/blob/main/getting-started-with-jupyter.ipynb)↗
+* Python Basics 1
 
 ## Day 2 (September 8)
+
+<a href="https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fpython-basics-2.ipynb" target="_blank">![A constellate launch button](constellate_launch.png)</a>
+
 This lesson describes the basics of [flow control statements](https://docs.constellate.org/key-terms/#flow-control-statement) including:
 * [Boolean values](https://docs.constellate.org/key-terms/#boolean-value)
 * [Boolean operators](https://docs.constellate.org/key-terms/#boolean-operator)
@@ -22,9 +25,12 @@ This lesson describes the basics of [flow control statements](https://docs.const
 * Handling errors with `try` and `except`
 
 ### Notebooks
-* <a href="https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fpython-basics-2.ipynb" target="_blank">Python Basics 2</a>
+* Python Basics 2
 
 ## Day 3 (September 13)
+
+<a href="https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fpython-basics-3.ipynb" target="_blank">![A constellate launch button](constellate_launch.png)</a>
+
 This lesson describes the basics of [lists](https://docs.constellate.org/key-terms/#list) and [dictionaries](https://docs.constellate.org/key-terms/#dictionary) including:
 
 * The `in` and `not in` [operators](https://docs.constellate.org/key-terms/#operator)
@@ -34,7 +40,7 @@ This lesson describes the basics of [lists](https://docs.constellate.org/key-ter
 * [Dictionary](https://docs.constellate.org/key-terms/#dictionary) methods (`update()`, `keys()`, `values()`, `items()`, `get()`)
 
 ### Notebooks
-* <a href="https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fpython-basics-3.ipynb" target="_blank">Python Basics 3</a>
+* Python Basics 3
 
 **Note:** There are two [more lessons](https://github.com/ithaka/tdm-notebooks/) available on Python Basics and many other topics.
 
