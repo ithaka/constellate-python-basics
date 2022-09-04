@@ -2,7 +2,7 @@
 
 ## Day 1 (September 6)
 
-<a href="https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fgetting-started-with-jupyter.ipynb" target="_blank">![constellate_launch.png](A constellate launch button)</a>
+<a href="https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fgetting-started-with-jupyter.ipynb" target="_blank">![A constellate launch button](constellate_launch.png)</a>
 
 This lesson introduces Jupyter notebooks and Python for absolute beginners. If you are completely new to text analysis, this is the place to start. This lesson describes [operators](https://docs.constellate.org/key-terms/#operator), [expressions](https://docs.constellate.org/key-terms/#expression), data types, [variables](https://docs.constellate.org/key-terms/#variable), and basic [functions](https://docs.constellate.org/key-terms/#function).
 
