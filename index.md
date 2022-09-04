@@ -6,9 +6,9 @@
 
 This lesson introduces Jupyter notebooks and Python for absolute beginners. If you are completely new to text analysis, this is the place to start. This lesson describes [operators](https://docs.constellate.org/key-terms/#operator), [expressions](https://docs.constellate.org/key-terms/#expression), data types, [variables](https://docs.constellate.org/key-terms/#variable), and basic [functions](https://docs.constellate.org/key-terms/#function).
 
-### Notebooks
-* [Getting Started with Jupyter Notebooks](https://github.com/ithaka/constellate-python-basics/blob/main/getting-started-with-jupyter.ipynb)↗
-* Python Basics 1
+### Notebook Previews
+* [Getting Started with Jupyter Notebooks](https://github.com/ithaka/constellate-python-basics/blob/main/getting-started-with-jupyter.ipynb)
+* [Python Basics 1](https://github.com/ithaka/constellate-python-basics/blob/main/python-basics-1.ipynb)
 
 ## Day 2 (September 8)
 
@@ -24,8 +24,8 @@ This lesson describes the basics of [flow control statements](https://docs.const
 * `while` and `for` loop statements
 * Handling errors with `try` and `except`
 
-### Notebooks
-* Python Basics 2
+### Notebook Preview
+* [Python Basics 2](https://github.com/ithaka/constellate-python-basics/blob/main/python-basics-2.ipynb)
 
 ## Day 3 (September 13)
 
@@ -39,10 +39,10 @@ This lesson describes the basics of [lists](https://docs.constellate.org/key-ter
 * [Dictionaries](https://docs.constellate.org/key-terms/#dictionary)
 * [Dictionary](https://docs.constellate.org/key-terms/#dictionary) methods (`update()`, `keys()`, `values()`, `items()`, `get()`)
 
-### Notebooks
-* Python Basics 3
+### Notebook Preview
+* [Python Basics 3](https://github.com/ithaka/constellate-python-basics/blob/main/python-basics-3.ipynb)
 
-**Note:** There are two [more lessons](https://github.com/ithaka/tdm-notebooks/) available on Python Basics and many other topics.
+**Note:** The Python Basics Series contains two additional notebook templates. See them and many more Constellate lesson templates in [our GitHub repository](https://github.com/ithaka/tdm-notebooks/).
 
 ## Day 4 (September 15)
 We will show how to teach your own form of Python Basics at your institution using GitHub.
