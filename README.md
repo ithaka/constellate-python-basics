@@ -30,5 +30,10 @@ For more information on this process, see our documentation for [sharing a lesso
 
 ## Using this Template for your Workshop
 
-
-
+1. Create a GitHub account and log into it. Navigate your browser to the repository for [this template](https://github.com/ithaka/constellate-python-basics/). 
+2. Click the "Use this Template" button.
+3. Give your repository a name and a description. Make sure it is public. It is not necessary to "Include all branches." When finished, choose "Create repository from template."
+4. Choose "Settings" and then select "Pages."
+5. Under "Build and Deployment," for "Source" choose "Deploy from a Branch." Under "Branch," choose "Main" and "(root)". Be sure to click "Save". 
+6. To preview your website, make a small change to the "index.md" file. You can see it under the "Code" tab. Select the file you wish to change, then choose the pencil icon to make a change. After the change is made, scroll to the bottom. Optionally, write a comment describing your changes, then choose "Commit changes."
+Return to "Settings" > "Pages" and you should see the URL where your site is live. This URL can be shared with your workshop participants. Any changes to your site will happen automatically, but they may take 1-2 minutes to be visible on the live site.
