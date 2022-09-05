@@ -28,4 +28,7 @@ Register for a personal JSTOR account in order to use Constellate. This is not t
 
 For more information on this process, see our documentation for [sharing a lesson](https://constellate.org/docs/sharing-a-lesson/).
 
+## Using this Template for your Workshop
+
+
 
