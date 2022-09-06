@@ -2,7 +2,7 @@
 
 ## Day 1 (September 6)
 
-<a href="https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fgetting-started-with-jupyter.ipynb" target="_blank">![A constellate launch button](constellate_launch.png)</a>
+<a href="https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fgetting-started-with-jupyter.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
 
 This lesson introduces Jupyter notebooks and Python for absolute beginners. If you are completely new to text analysis, this is the place to start. This lesson describes [operators](https://docs.constellate.org/key-terms/#operator), [expressions](https://docs.constellate.org/key-terms/#expression), data types, [variables](https://docs.constellate.org/key-terms/#variable), and basic [functions](https://docs.constellate.org/key-terms/#function).
 
@@ -12,7 +12,7 @@ This lesson introduces Jupyter notebooks and Python for absolute beginners. If y
 
 ## Day 2 (September 8)
 
-<a href="https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fpython-basics-2.ipynb" target="_blank">![A constellate launch button](constellate_launch.png)</a>
+<a href="https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fpython-basics-2.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
 
 This lesson describes the basics of [flow control statements](https://docs.constellate.org/key-terms/#flow-control-statement) including:
 * [Boolean values](https://docs.constellate.org/key-terms/#boolean-value)
@@ -29,7 +29,7 @@ This lesson describes the basics of [flow control statements](https://docs.const
 
 ## Day 3 (September 13)
 
-<a href="https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fpython-basics-3.ipynb" target="_blank">![A constellate launch button](constellate_launch.png)</a>
+<a href="https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fpython-basics-3.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
 
 This lesson describes the basics of [lists](https://docs.constellate.org/key-terms/#list) and [dictionaries](https://docs.constellate.org/key-terms/#dictionary) including:
 
