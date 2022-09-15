@@ -30,10 +30,22 @@ For more information on this process, see our documentation for [sharing a lesso
 
 ## Using this Template for your Workshop
 
-1. Create a GitHub account and log into it. Navigate your browser to the repository for [this template](https://github.com/ithaka/constellate-python-basics/). 
+1. [Create a GitHub account](https://github.com/signup) and log into it. Navigate your browser to [the repository for this template](https://github.com/ithaka/constellate-python-basics/). 
 2. Click the "Use this Template" button.
+![The template button](https://ithaka-labs.s3.amazonaws.com/static-files/images/tdm/tdmdocs/use-this-template.png)
 3. Give your repository a name and a description. Make sure it is public. It is not necessary to "Include all branches." When finished, choose "Create repository from template."
+![create repository button](https://ithaka-labs.s3.amazonaws.com/static-files/images/tdm/tdmdocs/create-repository-from-template.png)
 4. Choose "Settings" and then select "Pages."
+![the settings menu](https://ithaka-labs.s3.amazonaws.com/static-files/images/tdm/tdmdocs/github-settings-menu.png)
+![the pages menu](https://ithaka-labs.s3.amazonaws.com/static-files/images/tdm/tdmdocs/pages-menu.png)
 5. Under "Build and Deployment," for "Source" choose "Deploy from a Branch." Under "Branch," choose "Main" and "(root)". Be sure to click "Save". 
+![save button for build and deployment](https://ithaka-labs.s3.amazonaws.com/static-files/images/tdm/tdmdocs/build-and-deployment.png)
 6. To preview your website, make a small change to the "index.md" file. You can see it under the "Code" tab. Select the file you wish to change, then choose the pencil icon to make a change. After the change is made, scroll to the bottom. Optionally, write a comment describing your changes, then choose "Commit changes."
-Return to "Settings" > "Pages" and you should see the URL where your site is live. This URL can be shared with your workshop participants. Any changes to your site will happen automatically, but they may take 1-2 minutes to be visible on the live site.
+![the pencil icon in GitHub](https://ithaka-labs.s3.amazonaws.com/static-files/images/tdm/tdmdocs/pencil-icon.png)
+![the commit changes button](https://ithaka-labs.s3.amazonaws.com/static-files/images/tdm/tdmdocs/commit+changes.png)
+7. Return to "Settings" > "Pages" and you should see the URL where your site is live. This URL can be shared with your workshop participants. Any changes to your site will take 1-2 minutes to be visible on the live site. The address will look like:
+
+`https://YOUR_USERNAME.github.io/YOUR_REPOSITORY_NAME`
+
+![view website url](https://ithaka-labs.s3.amazonaws.com/static-files/images/tdm/tdmdocs/preview-github-pages.png)
+
