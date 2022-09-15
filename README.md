@@ -4,6 +4,8 @@ This repository is an example for teaching workshops and/or classes using [Const
 
 Constellate enables schools of all sizes to teach data and text analytics with a learning platform that empowers faculty, librarians, and other instructors to educate a new generation of learners in text and data analysis. Our solution, centered on student and researcher success, provides text and data analysis capabilities and access to content from some of the world’s most respected databases in an open environment with a variety of teaching materials that can be used, modified, and shared. We envision a future where text and data analytics skills are being taught on Constellate in classes in all disciplines.
 
+Most of the content in this repository was created with basic Markdown, a superset of HTML that allows you to easily stylize text, create links, images, and more. See this [basic markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/) for more details.
+
 ## The Constellate Lab 
 
 Institutions that subscribe to Constellate can use the Constellate Lab for teaching, learning, and research. The Constellate Lab will load Jupyter Notebooks from a GitHub repository. The repository must contain one or more Jupyter Notebook (.ipynb) files. These Notebook files could be developed in the Constellate Lab or on a local machine using an IDE such as [Pycharm](https://www.jetbrains.com/pycharm/), [Visual Studio Code](https://code.visualstudio.com/), [Spyder](https://www.spyder-ide.org/), etc.  
