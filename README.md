@@ -49,3 +49,21 @@ For more information on this process, see our documentation for [sharing a lesso
 
 ![view website url](https://ithaka-labs.s3.amazonaws.com/static-files/images/tdm/tdmdocs/preview-github-pages.png)
 
+## Files in this Repository
+
+### `LICENSE`
+Contains the MIT license for this template allowing you to "use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software" so long as it is redistributed with the MIT License.
+
+### `README.md`
+The document you are currently reading. It contains the information for using the files in the repository.
+
+### `_config.yml`
+Specifies several aspects of the template including:
+
+* `theme` The default theme is `jekyll-theme-minimal`. There are more themes [available here](https://pages.github.com/themes/). The themes are based o Jekyll. See the [GitHub documention on themes](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll).
+* `title` Change the default title for your webpage. The default is `University Library Data Literacy Workshop Series`.
+* `description` A brief description of the webpage that could describe the content of the material.
+* `show_downloads` Takes a boolean true/false value for showing download links for the repository. Default is `false`.
+* `logo` The logo on the front page of the website. Be default, this specifies `logo.png` in the root of the repository. You could delete this file and replace it with another file named logo.png that has your institutional affiliation. In general, it is usually better not to store images for a GitHub Pages website in the repository. We recommend storing images in another hosting location such as AWS, Google Drive, Dropbox, etc.
+* `XXXX.ipynb` Any file that ends in `.ipynb` is a Jupyter notebook file that will be loaded into Constellate. GitHub will preview these files nicely, but it cannot make them execute code in the same way as Constellate. We recommend editing on your local machine and uploading to the repository OR editing in Constellate then downloading the file to your local machine then uploading it to the GitHub repository.
