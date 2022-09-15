@@ -66,4 +66,6 @@ Specifies several aspects of the template including:
 * `description` A brief description of the webpage that could describe the content of the material.
 * `show_downloads` Takes a boolean true/false value for showing download links for the repository. Default is `false`.
 * `logo` The logo on the front page of the website. Be default, this specifies `logo.png` in the root of the repository. You could delete this file and replace it with another file named logo.png that has your institutional affiliation. In general, it is usually better not to store images for a GitHub Pages website in the repository. We recommend storing images in another hosting location such as AWS, Google Drive, Dropbox, etc.
-* `XXXX.ipynb` Any file that ends in `.ipynb` is a Jupyter notebook file that will be loaded into Constellate. GitHub will preview these files nicely, but it cannot make them execute code in the same way as Constellate. We recommend editing on your local machine and uploading to the repository OR editing in Constellate then downloading the file to your local machine then uploading it to the GitHub repository.
+
+### `XXXX.ipynb` 
+Any file that ends in `.ipynb` is a Jupyter notebook file that will be loaded into Constellate. GitHub will preview these files nicely, but it cannot make them execute code in the same way as Constellate. We recommend editing on your local machine and uploading to the repository OR editing in Constellate then downloading the file to your local machine then uploading it to the GitHub repository.
