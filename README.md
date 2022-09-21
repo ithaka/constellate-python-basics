@@ -20,7 +20,7 @@ Once a GitHub repository is created that contains at least one Jupyter Notebook 
 
 Register for a personal JSTOR account in order to use Constellate. This is not the same thing as your institution's JSTOR account. This account will keep track of your personal files on Constellate, allowing you to do things like create, save, and delete your personal files, including datasets and notebooks.
 
-![The login prompt for Constellate](https://ithaka-labs.s3.amazonaws.com/static-files/images/tdm/tdmdocs/constellate-login.png)
+![The login prompt for Constellate](https://ithaka-labs.s3.amazonaws.com/static-files/images/tdm/tdmdocs/constellate-login.png?)
 
 2. Open your dashboard. Under Constellate Lab, choose "Import GitHub Repository." If you do not see Constellate Lab options, either your institution does not subscribe to Constellate or it is not being recognized. 
 
