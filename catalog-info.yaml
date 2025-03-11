@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: constellate-python-basics
+  description: Auto-generated catalog-info.yaml.
+  tags:
+  - jupyter notebook
+spec:
+  type: unknown
+  owner: group:labs
+  lifecycle: unknown
